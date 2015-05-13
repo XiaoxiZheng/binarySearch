@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1426819965 source:c:\users\xiaoxi\desktop\codeblockprojects\binarysearch\main.cpp
+	<iostream>
+	"search.h"
+	<ctime>
+
+1426819855 c:\users\xiaoxi\desktop\codeblockprojects\binarysearch\search.h
+	<algorithm>
+
